@@ -1,0 +1,15 @@
+# Python environment files
+.venv/
+venv/
+__pycache__/
+
+# Streamlit-specific files
+.streamlit/
+app_secrets.toml
+
+# Editor and IDE files
+.vscode/
+.idea/
+
+# Local files
+.env
